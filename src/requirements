@@ -1,0 +1,8 @@
+4. Electronic Device
+Create an interface ElectronicDevice with methods getName(), getPrice(), and getType().
+Implement ElectronicDevice in classes Laptop, Smartphone, and Smartwatch, adding additional methods and variables as needed.
+Create a collection of electronic device objects and print print all elements in ascending order by price.
+
+ private int BatteryLife;
+    private double BandSize;
+    private string ScreenType;
